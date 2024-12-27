@@ -1,10 +1,9 @@
 import json
 import re
 import fasttext
-from huggingface_hub import hf_hub_download
 
-model_path = hf_hub_download(repo_id="facebook/fasttext-language-identification", filename="model.bin")
-model = fasttext.load_model(model_path)
+# Load the FastText model
+model = fasttext.load_model('lid218e.bin')
 
 # Define a function to detect the language of a word
 def detect_language(word):
@@ -20,7 +19,7 @@ def is_meaningful_word(word):
     return len(word) > 1 and not re.match(pattern, word)
 
 # Load JSON data from a file
-with open('all-words.json', 'r', encoding='utf-8') as file:
+with open('all-words-2.json', 'r', encoding='utf-8') as file:
     parsed_data = json.load(file)
 
 # Access the terms from the JSON data
