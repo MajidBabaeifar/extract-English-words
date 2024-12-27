@@ -29,4 +29,8 @@ The quantitative impact of anglisism
 	frequency of matching anglisisms compared
 	a table of match words and comparisons
 	do an explanation on the list of most frequent anglisims, which one is first, which is second. why?
+	do an explanation on match list as well
+	compare most frequent words in different days of the week, add some line charts for some of the most frequent words in data days.
+	token frequency of anglisism in different days of the week
+	anglisism in computer-related words, also on a line chart or meybe I can compare some of the computer related words in a chart
 	
