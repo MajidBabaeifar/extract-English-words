@@ -33,7 +33,6 @@ english_loanwords = []
 for item in terms:
     word = item["term"]
     languageString = detect_language(word)
-    print(languageString)
     if 'eng' in languageString and is_meaningful_word(word):
         english_loanwords.append(item)
 
@@ -42,4 +41,4 @@ with open('fasttext_result.json', 'w', encoding='utf-8') as file:
     json.dump(english_loanwords, file, ensure_ascii=False, indent=4)
 
 # Print a message indicating the loanwords have been saved
-print("English loanwords saved to 'fasttext_result.json'")
+print(len(english_loanwords), "English loanwords saved to 'fasttext_result.json'")
