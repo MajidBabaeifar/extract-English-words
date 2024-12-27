@@ -1,0 +1,6750 @@
+[
+    {
+        "term": "mail",
+        "inDocumentsCount": 1,
+        "rawFreq": 15,
+        "relativeFreq": 0.0019349845,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.009416196,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "us",
+        "inDocumentsCount": 5,
+        "rawFreq": 10,
+        "relativeFreq": 0.0012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -2.242978,
+        "relativeSkewness": -0.26426825,
+        "distributions": [
+            0.0007451565,
+            0.0024968788,
+            0.0022304833,
+            0.0022238696,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "liefers",
+        "inDocumentsCount": 1,
+        "rawFreq": 9,
+        "relativeFreq": 0.0011609907,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.011235955,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "lettenmayer",
+        "inDocumentsCount": 1,
+        "rawFreq": 9,
+        "relativeFreq": 0.0011609907,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.006706408,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "band",
+        "inDocumentsCount": 2,
+        "rawFreq": 9,
+        "relativeFreq": 0.0011609907,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 1.6765723,
+        "relativeSkewness": 1.5813487,
+        "distributions": [
+            0.0,
+            0.0024968788,
+            0.0,
+            0.005189029,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "mails",
+        "inDocumentsCount": 1,
+        "rawFreq": 7,
+        "relativeFreq": 0.0009029928,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.004394225,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "to",
+        "inDocumentsCount": 2,
+        "rawFreq": 6,
+        "relativeFreq": 0.0007739938,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 0.3011014,
+        "relativeSkewness": 1.3376865,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0014869889,
+            0.0,
+            0.0025109856,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "TO",
+                "repeat": 3
+            }
+        ]
+    },
+    {
+        "term": "of",
+        "inDocumentsCount": 3,
+        "rawFreq": 6,
+        "relativeFreq": 0.0007739938,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.7769696,
+        "relativeSkewness": 0.637962,
+        "distributions": [
+            0.001490313,
+            0.0,
+            0.0,
+            0.0,
+            0.0018832391,
+            0.0007564296
+        ],
+        "pos": [
+            {
+                "role": "IN",
+                "repeat": 3
+            }
+        ]
+    },
+    {
+        "term": "her",
+        "inDocumentsCount": 3,
+        "rawFreq": 6,
+        "relativeFreq": 0.0007739938,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.7586799,
+        "relativeSkewness": 0.64068514,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0014825797,
+            0.0018832391,
+            0.0007564296
+        ],
+        "pos": [
+            {
+                "role": "PRP$",
+                "repeat": 3
+            }
+        ]
+    },
+    {
+        "term": "fans",
+        "inDocumentsCount": 3,
+        "rawFreq": 6,
+        "relativeFreq": 0.0007739938,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -0.64977294,
+        "relativeSkewness": 0.97336483,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0014869889,
+            0.0022238696,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "welt",
+        "inDocumentsCount": 4,
+        "rawFreq": 5,
+        "relativeFreq": 0.00064499484,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 0.16325186,
+        "relativeSkewness": 0.47138265,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0014869889,
+            0.00074128987,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "the",
+        "inDocumentsCount": 3,
+        "rawFreq": 5,
+        "relativeFreq": 0.00064499484,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -2.2422984,
+        "relativeSkewness": 0.44909742,
+        "distributions": [
+            0.001490313,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0012554928,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "DT",
+                "repeat": 2
+            }
+        ]
+    },
+    {
+        "term": "show",
+        "inDocumentsCount": 2,
+        "rawFreq": 5,
+        "relativeFreq": 0.00064499484,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.7445122,
+        "relativeSkewness": 0.98993194,
+        "distributions": [
+            0.0,
+            0.0024968788,
+            0.0,
+            0.0022238696,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "film",
+        "inDocumentsCount": 3,
+        "rawFreq": 5,
+        "relativeFreq": 0.00064499484,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -3.151301,
+        "relativeSkewness": 0.05959308,
+        "distributions": [
+            0.001490313,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0012554928,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "spam",
+        "inDocumentsCount": 1,
+        "rawFreq": 4,
+        "relativeFreq": 0.0005159959,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0025109856,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "sh",
+        "inDocumentsCount": 1,
+        "rawFreq": 4,
+        "relativeFreq": 0.0005159959,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0025109856,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "relay",
+        "inDocumentsCount": 1,
+        "rawFreq": 4,
+        "relativeFreq": 0.0005159959,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0025109856,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "land",
+        "inDocumentsCount": 3,
+        "rawFreq": 4,
+        "relativeFreq": 0.0005159959,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 0.17377211,
+        "relativeSkewness": 0.9936732,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0014825797,
+            0.0006277464,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "instagram",
+        "inDocumentsCount": 3,
+        "rawFreq": 4,
+        "relativeFreq": 0.0005159959,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -2.6383865,
+        "relativeSkewness": 0.31170374,
+        "distributions": [
+            0.0007451565,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0012554928,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "horst",
+        "inDocumentsCount": 1,
+        "rawFreq": 4,
+        "relativeFreq": 0.0005159959,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.002980626,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "frage",
+        "inDocumentsCount": 3,
+        "rawFreq": 4,
+        "relativeFreq": 0.0005159959,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 3.5298753,
+        "relativeSkewness": 1.8331876,
+        "distributions": [
+            0.0007451565,
+            0.0024968788,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "elf",
+        "inDocumentsCount": 1,
+        "rawFreq": 4,
+        "relativeFreq": 0.0005159959,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0030257185
+        ],
+        "pos": []
+    },
+    {
+        "term": "you",
+        "inDocumentsCount": 1,
+        "rawFreq": 3,
+        "relativeFreq": 0.0003869969,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0018832391,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "PRP",
+                "repeat": 3
+            }
+        ]
+    },
+    {
+        "term": "taylor",
+        "inDocumentsCount": 2,
+        "rawFreq": 3,
+        "relativeFreq": 0.0003869969,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 2.456325,
+        "relativeSkewness": 1.723952,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0014825797,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "songs",
+        "inDocumentsCount": 1,
+        "rawFreq": 3,
+        "relativeFreq": 0.0003869969,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0022238696,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "rom",
+        "inDocumentsCount": 1,
+        "rawFreq": 3,
+        "relativeFreq": 0.0003869969,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0022304833,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "richard",
+        "inDocumentsCount": 1,
+        "rawFreq": 3,
+        "relativeFreq": 0.0003869969,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0037453184,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "restaurants",
+        "inDocumentsCount": 1,
+        "rawFreq": 3,
+        "relativeFreq": 0.0003869969,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0022354694,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "rapper",
+        "inDocumentsCount": 3,
+        "rawFreq": 3,
+        "relativeFreq": 0.0003869969,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -3.3332274,
+        "relativeSkewness": 3.728626e-05,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0007434944,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "professor",
+        "inDocumentsCount": 1,
+        "rawFreq": 3,
+        "relativeFreq": 0.0003869969,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0037453184,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "phishing",
+        "inDocumentsCount": 1,
+        "rawFreq": 3,
+        "relativeFreq": 0.0003869969,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0018832391,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "ocean",
+        "inDocumentsCount": 1,
+        "rawFreq": 3,
+        "relativeFreq": 0.0003869969,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.002269289
+        ],
+        "pos": []
+    },
+    {
+        "term": "model",
+        "inDocumentsCount": 2,
+        "rawFreq": 3,
+        "relativeFreq": 0.0003869969,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 0.28627008,
+        "relativeSkewness": 1.335107,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0012554928,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "michael",
+        "inDocumentsCount": 1,
+        "rawFreq": 3,
+        "relativeFreq": 0.0003869969,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0018832391,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "me",
+        "inDocumentsCount": 3,
+        "rawFreq": 3,
+        "relativeFreq": 0.0003869969,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -3.3315964,
+        "relativeSkewness": 0.00060799293,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "for",
+        "inDocumentsCount": 2,
+        "rawFreq": 3,
+        "relativeFreq": 0.0003869969,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 1.5262666,
+        "relativeSkewness": 1.5542629,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0015128592
+        ],
+        "pos": []
+    },
+    {
+        "term": "event",
+        "inDocumentsCount": 2,
+        "rawFreq": 3,
+        "relativeFreq": 0.0003869969,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 1.4091649,
+        "relativeSkewness": 1.5332443,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0014825797,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "computer",
+        "inDocumentsCount": 1,
+        "rawFreq": 3,
+        "relativeFreq": 0.0003869969,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0018832391,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "bad",
+        "inDocumentsCount": 1,
+        "rawFreq": 3,
+        "relativeFreq": 0.0003869969,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.002269289
+        ],
+        "pos": []
+    },
+    {
+        "term": "ard",
+        "inDocumentsCount": 2,
+        "rawFreq": 3,
+        "relativeFreq": 0.0003869969,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 1.4625044,
+        "relativeSkewness": 1.5428091,
+        "distributions": [
+            0.001490313,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "zorn",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0012554928,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "your",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0012554928,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "PRP$",
+                "repeat": 2
+            }
+        ]
+    },
+    {
+        "term": "wle",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 0.28340647,
+        "relativeSkewness": 1.334609,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "witt",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.001490313,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "wasser",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.8720722,
+        "relativeSkewness": 0.9687318,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "up",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.5998566,
+        "relativeSkewness": 1.0140365,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "RP",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "toch",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 0.28340647,
+        "relativeSkewness": 1.334609,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "tiative",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0015128592
+        ],
+        "pos": []
+    },
+    {
+        "term": "thema",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.872781,
+        "relativeSkewness": 0.96861416,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "superstar",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0014825797,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "super",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.5998566,
+        "relativeSkewness": 1.0140365,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "star",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 0.24890208,
+        "relativeSkewness": 1.3286117,
+        "distributions": [
+            0.0007451565,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "species",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0015128592
+        ],
+        "pos": []
+    },
+    {
+        "term": "sor",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.5998566,
+        "relativeSkewness": 1.0140365,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "NN",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "smartphone",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.5426232,
+        "relativeSkewness": 1.0235925,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "riesending",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0014869889,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "promi",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 0.24890208,
+        "relativeSkewness": 1.3286117,
+        "distributions": [
+            0.0007451565,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "post",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.001490313,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "playboy",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0014869889,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "perfide",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0012554928,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "JJ",
+                "repeat": 1
+            },
+            {
+                "role": "NN",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "paris",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.609206,
+        "relativeSkewness": 1.0124766,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "museum",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.8720722,
+        "relativeSkewness": 0.9687318,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "moderator",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.8747336,
+        "relativeSkewness": 0.96829003,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "miss",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.8709776,
+        "relativeSkewness": 0.9689135,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "main",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.8709776,
+        "relativeSkewness": 0.9689135,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "magazin",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.5998566,
+        "relativeSkewness": 1.0140365,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "lynch",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.8720722,
+        "relativeSkewness": 0.9687318,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "it",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0015128592
+        ],
+        "pos": []
+    },
+    {
+        "term": "is",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.5426232,
+        "relativeSkewness": 1.0235925,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0007564296
+        ],
+        "pos": [
+            {
+                "role": "VBZ",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "internet",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 1.3917303,
+        "relativeSkewness": 1.530121,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "helm",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 0.28340647,
+        "relativeSkewness": 1.334609,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "grad",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.8749132,
+        "relativeSkewness": 0.9682602,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "glamour",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0014825797,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "general",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.5426232,
+        "relativeSkewness": 1.0235925,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "gast",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.001490313,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "form",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.5426232,
+        "relativeSkewness": 1.0235925,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "fers",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0024968788,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "eric",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0015128592
+        ],
+        "pos": []
+    },
+    {
+        "term": "egal",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.5927277,
+        "relativeSkewness": 1.0152262,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "duc",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.001490313,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "discoveries",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0015128592
+        ],
+        "pos": []
+    },
+    {
+        "term": "corona",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 0.24890208,
+        "relativeSkewness": 1.3286117,
+        "distributions": [
+            0.0007451565,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "botschafter",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0014825797,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "bob",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0024968788,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "better",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.8749509,
+        "relativeSkewness": 0.96825397,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "and",
+        "inDocumentsCount": 2,
+        "rawFreq": 2,
+        "relativeFreq": 0.00025799795,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": -1.5998566,
+        "relativeSkewness": 1.0140365,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "CC",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "wunder",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "worte",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "worms",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "witze",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "winter",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "whatsapp",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "what",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "western",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "were",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "VBD",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "welle",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "welcome",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "JJ",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "we",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "wasserquali",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "wassermangel",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "wand",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "virus",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "video",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "via",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "versity",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "variety",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "user",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "tylers",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "turm",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "tue",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "trient",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "treff",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "tradition",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "tournee",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "tourist",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "tor",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "toilette",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "tod",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "tive",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "JJ",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "thomas",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "this",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "thing",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "themen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "themas",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "theater",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "that",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "IN",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "tes",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "ternets",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "NNS",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "tern",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "tenmayer",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "telegram",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "technology",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "tagesthe",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "system",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "superman",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "subject",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "studio",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "stituts",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "stim",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "status",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "station",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "start",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "NN",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "starrt",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "stange",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "standards",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "staffel",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "spross",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "sporthose",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "sport",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "spi",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "spen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "spe",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "spart",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "JJ",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "sparsam",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "spaghetti",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "some",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "DT",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "smartphones",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "sive",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "singe",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "simone",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "sigwart",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "shopping",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "shop",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "shootings",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "shirts",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "set",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "sensible",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "selfies",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "secondary",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "seafood",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "screens",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "science",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "schop",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "schied",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "said",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "VBD",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "sachusetts",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "NN",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "rot",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "ross",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "rolf",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "riverboat",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "rich",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "relaya",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "relay.csnet",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "reithose",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "region",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "received",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "re",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "NN",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "raphael",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "radio",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "rad",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "publishing",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "provider",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "protes",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "promis",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "profil",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "profes",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "problems",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "privates",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "private",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "portl",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "podcast",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "plattform",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "plan",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "pier",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "philipp",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "pause",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "patent",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "pariser",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "orga",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "one",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "official",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "JJ",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "offe",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "not",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "nfluence",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "newsletter",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "new",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "network",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "nalist",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "nal",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "NN",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "muster",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "mount",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "motive",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "modelsucher",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "mobile",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "NN",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "missouri",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "misches",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "NNS",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "mini",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "milan",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "metern",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "mern",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "medichini",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "mayer",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "matthias",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "maschinel",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "marvel",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "mark",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "make",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "luddington",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "lovegood",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "lola",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "line",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "like",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "IN",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "lettenmayers",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "let",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "laster",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "lame",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "knockin",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "judy",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "irreparable",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "invasive",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "interested",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "JJ",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "intensive",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "intensiv",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "intelli",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "instrument",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "instituts",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "NNS",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "institute",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "institut",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "initiative",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "indisches",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "inderlied",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "impuls",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "implementation",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "NN",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "if",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "icould",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "houette",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "hotel",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "hot",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "homes",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "hoffe",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "hoff",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "highlights",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "heimcomputer",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "heaven's",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "head",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "he",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "have",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "VB",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "hassest",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "harry",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "happy",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "hadid",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "gunn",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "grand",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "grance",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "glad",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "JJ",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "gather",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "VBP",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "garland",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "gardens",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "gardasees",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "fu\u00df",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "from",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "ford",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "flyern",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "flyer",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "flut",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "florian",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "fish",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "filtern",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "filter",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "films",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "fe",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "fal",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "fabian",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "extremwetterlage",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "ex",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "entertainment",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "education",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "eco",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "dressur",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "dressco",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "discovery",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "dily",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "digi",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "ders",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "dent",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "NN",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "demonstration",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "data",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "crew",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "coversongs",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "costners",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "costner",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "coronavirus",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "cor",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "conference",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "NN",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "civey",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "cic",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "chic",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "chance",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "certificate",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "central",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "cast",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "captain",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "capshaw",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "can",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "MD",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "call",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "by",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "IN",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "burt",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "bote",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "NN",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "boris",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "bodaner",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "bochumer",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "beverly",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "barth",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "bart",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0012484394,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "bade",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "back",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "at",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "IN",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "asphalt",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "arrhythmie",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "arm",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "arg",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "arena",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.00074128987,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "are",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "VBP",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "appell",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "apotheke",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0007434944,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "anfrage",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "andernorts",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "ance",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "alpin",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0007564296
+        ],
+        "pos": []
+    },
+    {
+        "term": "all",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "alexander",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0007451565,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "pos": []
+    },
+    {
+        "term": "about",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "IN",
+                "repeat": 1
+            }
+        ]
+    },
+    {
+        "term": "able",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.00012899897,
+        "comparisonRelativeFreqDifference": null,
+        "relativePeakedness": 6.0,
+        "relativeSkewness": 2.4494898,
+        "distributions": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0006277464,
+            0.0
+        ],
+        "pos": [
+            {
+                "role": "JJ",
+                "repeat": 1
+            }
+        ]
+    }
+]
