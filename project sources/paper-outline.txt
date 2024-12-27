@@ -19,4 +19,14 @@ The quantitative impact of anglisism
 	This corpus has 6 documents with 7,917 total words and 3,219 unique word forms. I excluded main title, dates and headers and also ads. according to the methods of data elicitation as described in section ... 
 	the total number of anglicisms is 363 which occur in 564 instances. compared to the toal number of types and tokens the rate of anglisisms amounts to 7,12% of all tokens and 11,27% of all types. show in a table. 
 	average of 1 anglisism per 14 tokens and 1 anglisism per 8,86 type. type/token anglisism : 0,64 and type/token for total : 0,40 and type/token in corpus without anglisism : ?. 
+	in anglisism: what percent only occur once and what percent occur more than once. what percent occure more than 10 times? pie chart of TF of anglisism words.
+	?what percent of types are hybrid constructions (like wunderkids)
+	average word tokens in each page. then divide buy average occurances of anglisism per word, gives anglisism per page. we also can give exact amount for each page.
+	the reader will come across n anglisims per page!
+	but, anglisism is more clustered rather than linear distribution and depends on style, topic, ... 
+	dispersion of most frequent anglisism words
+	comparison between der spiegel and Frankischer tag
+	frequency of matching anglisisms compared
+	a table of match words and comparisons
+	do an explanation on the list of most frequent anglisims, which one is first, which is second. why?
 	
