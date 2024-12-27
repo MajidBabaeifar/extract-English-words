@@ -171,5 +171,5 @@ cython_debug/
 .pypirc
 
 # custom ignores
-all-words.json
 fasttext_result.json
+*.bin

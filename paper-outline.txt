@@ -1,0 +1,12 @@
+questions of research
+corpus and methods:
+	1. intro: Overal explanation on why choose Frankischer tag? how did you analyse?
+	2. The Frankischer tag: you should reference to other researcher's opinion about why analyzing press is important. and then specifically why Frankischer tag? shoudl make up some reason. since we also analyse the impact, popularity can be a good reason. alondside with a chart. can mention what groups of people usually read Frankischer tag? (search readership profile)
+	3. methods of data elicitation(استخراج):
+	use scanner
+	use https://www.imagetotext.info/ to extract text from images
+	to analyze text https://voyant-tools.org/?corpus=ad2ce22b3ca7a370c01a76afd873eb0e
+    used fasttext pre-trained language identification model for extracting english words
+    added some other filters
+    
+	
