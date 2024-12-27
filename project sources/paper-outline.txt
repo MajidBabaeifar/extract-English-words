@@ -34,3 +34,4 @@ The quantitative impact of anglisism
 	token frequency of anglisism in different days of the week
 	anglisism in computer-related words, also on a line chart or meybe I can compare some of the computer related words in a chart
 	
+	
