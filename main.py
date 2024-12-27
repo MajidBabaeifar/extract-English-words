@@ -28,12 +28,14 @@ terms = parsed_data["corpusTerms"]["terms"]
 
 # Initialize an empty list to store English loanwords
 english_loanwords = []
+total_instance_count = 0
 
 # Iterate over the terms and detect their language
 for item in terms:
     word = item["term"]
     languageString = detect_language(word)
     if 'eng' in languageString and is_meaningful_word(word):
+        total_instance_count += item["rawFreq"]
         english_loanwords.append(item)
 
 # Save the list of English loanwords to a JSON file
@@ -41,4 +43,4 @@ with open('fasttext_result.json', 'w', encoding='utf-8') as file:
     json.dump(english_loanwords, file, ensure_ascii=False, indent=4)
 
 # Print a message indicating the loanwords have been saved
-print(len(english_loanwords), "English loanwords saved to 'fasttext_result.json'")
+print(total_instance_count, "total instances and unique number of" , len(english_loanwords), "English loanwords saved to 'fasttext_result.json'")

@@ -1,0 +1,58 @@
+
+Received: Csnet-Sh.arpa by csnet-relay; 2 Aug 84 12:35 EDT
+Date: Thu, 02 Aug 84 12:21:58 EDT
+To: rotert germany@csnet-relay.csnet
+cc: zornigermany@csnet-relay.csnet, cickcsnet-sh.acsnet-relay.csne
+breeden csnet-sh.arpa@csnet-relay.csnet
+Subject: Wilkomen in CSNET!
+From: Laura Breeden breeden csnet-sh.arpa@csnet-relay.csn Via: csnet-relay; 3 Aug 84 10:44-MET
+Michael,
+This is your official welcome to CSNET. We are glad to have you I gather that you and Dan were able to talk about some of the detai of your implementation at the Paris conference. Dan also said you a interested in CSNET paraphernalia (like t-shirts). If I can come up
+So sah die erste empfangene E-Mail in Deutschland aus. Sie ging am 3. August 1984 in Karlsruhe ein.
+Foto: Uli Deck, dpa
+E-Mail in Deutschland wird 40
+DIGITALES Abermilliarden an Mails werden täglich um die Welt geschickt. Vor 40 Jahren trudelte die erste in einem Postfach in Deutschland ein. Es folgte eine Erfolgsgeschichte, die auch Schattenseiten hat.
+VON MARCO KREFTING, DPA
+Karlsruhe Ohne Schnickschnack, nicht mal mit einem Hallo - stattdessen sehr sachlich war die erste E-Mail, die Deutschland jemals erreichte. Das höchste der Gefühle: „Wir freuen uns, dich dabei zu haben". Empfangen hat sie Michael Rotert am 3. August 1984 an der damaligen Universität Karlsruhe. „Wir haben nicht geahnt, wie es die Kommunikation revolutionieren wird", sagt der 74-Jährige heute anlässlich des 40. Jahrestags.
+Es ging ums Vernetzen der Unis Ursprünglich ging es um ein rein akade- misches Unterfangen: das Deutsche Forschungsnetz an das amerikanische CSNET (Computer Science Network) anzuschließen. Dieser Vorläufer des In- ternets war 1981 in den USA in Betrieb gegangen und sollte Unis und Hoch- schulen einen freien Zugriff auf ein Kommunikationsnetzwerk zum Aus- tausch geben, wie es beim Nachfolger der Karlsruher Uni heißt, dem Karlsru- her Institut für Technologie (KIT). Der Impuls in Deutschland kam von Profes- sor Werner Zorn, dessen Mitarbeiter Rotert war und der die erste E-Mail in der deutschen Geschichte zumindest in
+NATUR
+cc erhielt. Abgeschickt auf Englisch am Zumal für deutsche Anbieter hiesige 2. August von Laura Breeden vom Mas- sachusetts Institute of Technology (MIT). Mit Blick auf die Zeitzonen sieht Rotert einen klaren Vorteil der Mail: „Man kann asynchron arbeiten. Die Amerikaner haben die Mail verschickt, als sie wach waren."
+cc
+Vor allem im Beruf im Einsatz
+Heute ist die Mail allen Messenger- Diensten und sozialen Netzwerken zum Trotz vor allem im beruflichen Kontext
+das mit Abstand meist genutzte Kom- munikationsmittel, wie eine repräsenta- tive Umfrage des Meinungsforschungs- instituts Civey ergab. Etwa zwei Drittel der Befragten gaben an, E-Mails regel- mäßig im beruflichen Umfeld zu nutzen.
+Beim privaten Gebrauch liegt der An- teil bei gut drei Vierteln, knapp hinter Messenger-Angeboten wie WhatsApp und Telegram. Aus Sicht von Michael Hagenau, Chef der 1&1-Mailmarken GMX und Web.de, liegt das zum einen an offenen Standards, auf denen die Technik basiert:,,Egal bei welchem An- bieter man seine E-Mail-Adresse hat, man kann immer miteinander kommu- nizieren. Messenger-Dienste und soziale Netzwerke funktionieren hingegen nur im geschlossenen Mitgliederkreis."
+Datenschutzbestimmungen gelten. Mit 35 Millionen Nutzern halten Web.de und GMX demnach hierzulande fast 50 Prozent Marktanteil. Zum anderen sei die E-Mail Dreh- und Angelpunkt digi- talen Lebens. ,,Im Postfach läuft alles zusammen, was wichtig ist: Vertragsin- formationen, Rechnungen, Bestellbestä- tigungen, Zustellbenachrichtigungen, Newsletter und persönliche Kommuni- kation", sagt er. Für die seriöse Kom- munikation mit Unternehmen und Be-
+hörden sei die E-Mail der wichtigste Ka-
+nal. Bei nahezu jedem Dienst vom On- line-Shop bis zum sozialen Netzwerk er- folgt die Anmeldung per E-Mail. Die Anzahl der täglich verschickten und empfangenen E-Mails weltweit liegt bei mehr als 360 Milliarden, Tendenz stei- gend.
+Smartphone erlaubte mobilen Zugriff
+Den Durchbruch bei der privaten Nut- zung erfuhr die E-Mail durch den Trend zum Heimcomputer ab den 1980er Jah- ren und durch kostenlose E-Mail-Ange- bote in den 1990er Jahren. Seit sich Smartphones verbreiten, ist der mobile Zugriff aufs Postfach möglich.
+Gerade für formelle Kommunikation und Dokumentation sei E-Mail die erste
+TECHNIK
+Wahl, sagt Rotert, der Eco-Ehrenpräsi- dent ist.,,Von der Form her hat sich die E-Mail in den letzten 40 Jahren nicht verändert." Auch brauche sie heute im Grunde genauso lange wie damals. Frü- her sei die Technik langsamer gewesen, sagt er. „Heute verbringen E-Mails mehr Zeit in den Phishing-Filtern der Provider." Allein Web.de und GMX ha- ben im vergangenen Jahr rund 1,5 Milli- arden potenziell gefährliche Spam-Mails pro Woche abgefangen.
+Kl hilft gegen Kriminelle
+Hier wird künstliche Intelligenz (KI) laut Hagenau eine immer wichtigere Rolle spielen - und zwar auf beiden Sei- ten: „Die Internet-Kriminellen entwi- ckeln immer neue Taktiken, um uns die Erkennung von Spam- und Phishing- Mails zu erschweren", erklärt er. Die Textqualität von Phishing-Mails nehme etwa mit Hilfe von Sprachmodellen wie ChatGPT zu.
+Doch auch Filter fischen dank KI un- gewollte Nachrichten heraus, bevor sie den Posteingang erreichen.,,Maschinel- les Lernen hat sich bei der Erkennung neuer Spam-Muster als äußerst effektiv erwiesen“, erläutert Hagenau.,,KI hilft uns enorm, die Spam-Flut zu beherr- schen."
+Die Nilgänse kommen - und machen Ärger Kein Foto für Heidi Klum
+VON PHILIPP NAZARETH
+München Invasive Arten sind perfide Eindringlinge, denen nicht zu trauen ist. Indisches Springkraut zum Beispiel. Schöne rosa Blüten, duftet an- genehm nach Kokos, vermehrt sich nur wie blöd und verdrängt hiesige Gewächse. Auch der Waschbär: Süüüüüüß, mag man meinen, aber weit gefehlt! Der kleine Bär aus Nordamerika räubert Mülltonnen und nistet sich auf Dachböden ein.
+Und jetzt auch noch die ägyptischen Nilgänse. Seit eini- gen Jahren schon machen sie Probleme, diese eleganten Tie- re mit den langen roten Beinen. Sie piesacken uns, wo sie nur können. Fressen sich zum Bei-
+spiel auf Äckern satt und ver- miesen Landwirten die Ernte.
+Eine Nilgans mit ihren Jung- tieren. Foto: Bernd Weißbrod, dpa
+Immer schneller verbreiten sie sich. Besonders gerne weilen Nilgänse an sonnigen Seeufern und in Freibädern - wie der Mensch halt, man kann es den Tieren nicht übel nehmen. Aber der Mensch geht auf die Toilette, wenn er muss, und die
+Nilgans eben nicht. Hier liegt das Problem. Die grün-weißen Kothaufen verärgern immer mehr Badegäste- und wo es be- sonders schlimm ist, müssen die Tretminen von Schwimmbad- betreibern eimerweise einge- sammelt werden.
+Zumindest die Wasserquali- tät leide in Deutschland nicht darunter, beteuern Experten. Ganz anders bei Olympia in Pa- ris. Die Seine ist schmutzig, so weit nichts Neues, aber jetzt auch so schmutzig, dass der Triathlon der Männer tatsäch- lich verschoben werden musste. Den Sportlern war es offen- bar (noch) nicht zuzumuten, in der französischen Hauptstadt- kloake zu schwimmen. Schuld aber sind die Pariser Abwässer. Die Nilgänse haben damit nichts zu tun.
+VON MILAN SAKO
+Bamberg Geht noch schöner als schön? Gigi Hadid oder Stefa- nie Giesinger zählen zu den an- gesagten Models. Anstatt das ,,Spieglein, Spieglein an der Wand, wer ist die Schönste im ganzen Land" zu befragen, wählen die Modelsucher heute jedoch andere Wege. Sie sitzen am Computer, geben Fotos von schönen Menschen ein und lassen die künstliche Intelli- genz (KI) rechnen.
+So ähnlich geht Mango vor. Auf den Fotos der spanischen Modekette sind nur die Kla- motten echt. Mango setzt für die Teenie-Linie komplett auf Models, die die KI generierte. Wie das Unternehmen mitteilt, wurden die Kleider zuerst auf- genommen und anschließend
+von der KI auf das computer- generierte Model positioniert. Mit zerzaustem Haar steht die gebräunte Frau vor einem ma- rokkanischen Bazar und lä- chelt monalisaesk.
+Irgendwie überrascht es nicht. Ist halt der nächste Schritt in der künstlichen In- telligenz, die unser aller Leben rasend verändern wird. Ob den Käuferinnen der auf Teenager zielenden Kollektion das be- wusst wird? Das sei „perfide" äußerte eine Kritikerin, die zu KI forscht.
+Mango hingegen spart sich mit seinen künstlichen Models teure Shootings. Heidi Klum wird also quasi arbeitslos. Um es mit den Worten der Model- Mama zu sagen: „Wir haben bald kein Foto mehr für Hei- di.".
+Harrison Ford, 82, ist eige- nen Angaben zufolge ohne größeren Idealismus an seine Marvel-Rolle herangetreten. ,,Es erforderte Gleichgültig- keit", witzelte der Schauspieler im Magazin,,Variety" auf die Frage, was ihm seine Ver- wandlung in den schnurrbärti- gen General Thaddeus Ross im neuen,,Captain Ameri- ca"-Film abverlangt habe.,,Es erforderte, für Geld ein Idiot zu sein, was ich vorher auch schon getan habe."
+Taylor Swift, 34, hat sich
+dpa
+begeistert über die vielen Menschen gezeigt, die ihre Konzerte in München außer- halb des Stadions verfolgt ha- ben. An beiden Konzert- Abenden waren vergangenes Wochenende Zehntausende Fans auf den Olympiaberg und umliegende Wiesen gekom- men. Manche nannten den Berg scherzhaft,,Mount Swif- tie".,,Was für eine magische Erfahrung es war, in München zu spielen", schrieb Swift auf Instagram.
+dpa
+James Gunn, 57, hat sich nach dem Ende der Dreharbei- ten zu seinem neuen,,Super- man"-Film bei allen Mitwir- kenden bedankt. Schauspieler und Crew hätten am Set so- wohl Mühen als auch lustige Momente, Emotionen, Ideen und Magisches miteinander geteilt dafür sei er,,ewig dankbar", schrieb der Regis- seur auf Instagram. Der Kino- start ist für Juli 2025 geplant. Darin spielt erstmals David Corenswet Superman.
+dpa
+Nina Chuba, 25, fühlt sich mittlerweile in Berlin wohler als in ihrer Heimatstadt.,,Ber- lin ist für mich eine lebenswer- tere Stadt als Hamburg", sagte die Sängerin.,,Hier ist das Wetter einfach besser. Ich kann in Hamburg nicht mehr sein. Das Wetter kann ich nicht mehr. Das möchte ich nicht mehr. Dennoch sei ihr Herz natürlich auch immer irgend- wie in Hamburg, wo ihre Fa- milie lebt.,,Ich liebe es da ein- fach." dpa
