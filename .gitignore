@@ -172,4 +172,4 @@ cython_debug/
 
 # custom ignores
 fasttext_result.json
-*.bin
+lid*.bin*

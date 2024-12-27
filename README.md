@@ -17,3 +17,4 @@ Used for extracting text from images.
 
 Used a pretrained model from Hugging Face for detecting the language of words.  
 [FastText Library for efficient text classification and representation learning](https://fasttext.cc)
+[https://github.com/facebookresearch/fairseq/blob/nllb/README.md#lid-model](facebook model)
