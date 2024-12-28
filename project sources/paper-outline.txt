@@ -1,37 +1,45 @@
 ?project -> complete readme.md file and add licences
 
-?questions of research
-corpus and methods:
-	1. intro: Overal explanation on why choose Frankischer tag? how did you analyse?
-	2. The Frankischer tag: you should reference to other researcher's opinion about why analyzing press is important. and then specifically why Frankischer tag? shoudl make up some reason. since we also analyse the impact, popularity can be a good reason. alondside with a chart. can mention what groups of people usually read Frankischer tag? (search readership profile)
-	3. methods of data elicitation(استخراج):
-	use scanner
-	use https://www.imagetotext.info/ to extract text from images
-	to analyze text https://voyant-tools.org/?corpus=ad2ce22b3ca7a370c01a76afd873eb0e
-    used fasttext pre-trained language identification model for extracting english words
-    added some other filters
-    manually checked the remaining words in context
-	
 
-The quantitative impact of anglisism
-	?1. intro: 
-	2. number of anglicisms in Frankischer tag: I proccess one week of Frankischer tag newspaper from Aug3rd to and included Aug9th and only the Boulevard section which was a total of 6 pages (Sonntag did not have Boulevard section).
-	This corpus has 6 documents with 7,917 total words and 3,219 unique word forms. I excluded main title, dates and headers and also ads. according to the methods of data elicitation as described in section ... 
-	the total number of anglicisms is 363 which occur in 564 instances. compared to the toal number of types and tokens the rate of anglisisms amounts to 7,12% of all tokens and 11,27% of all types. show in a table. 
-	average of 1 anglisism per 14 tokens and 1 anglisism per 8,86 type. type/token anglisism : 0,64 and type/token for total : 0,40 and type/token in corpus without anglisism : ?. 
-	in anglisism: what percent only occur once and what percent occur more than once. what percent occure more than 10 times? pie chart of TF of anglisism words.
-	?what percent of types are hybrid constructions (like wunderkids)
-	average word tokens in each page. then divide buy average occurances of anglisism per word, gives anglisism per page. we also can give exact amount for each page.
-	the reader will come across n anglisims per page!
-	but, anglisism is more clustered rather than linear distribution and depends on style, topic, ... 
-	dispersion of most frequent anglisism words
-	comparison between der spiegel and Frankischer tag
-	frequency of matching anglisisms compared
-	a table of match words and comparisons
-	do an explanation on the list of most frequent anglisims, which one is first, which is second. why?
-	do an explanation on match list as well
-	compare most frequent words in different days of the week, add some line charts for some of the most frequent words in data days.
-	token frequency of anglisism in different days of the week
-	anglisism in computer-related words, also on a line chart or meybe I can compare some of the computer related words in a chart
+part 2
+	1. elicitation methods
+		?questions of research
+		corpus and methods:
+			1. intro: Overal explanation on why choose Frankischer tag? how did you analyse?
+			2. The Frankischer tag: you should reference to other researcher's opinion about why analyzing press is important. and then specifically why Frankischer tag? shoudl make up some reason. since we also analyse the impact, popularity can be a good reason. alondside with a chart. can mention what groups of people usually read Frankischer tag? (search readership profile)
+			3. methods of data elicitation(استخراج):
+				use scanner
+				use https://www.imagetotext.info/ to extract text from images
+				to analyze text https://voyant-tools.org/?corpus=ad2ce22b3ca7a370c01a76afd873eb0e (tokens and types) and nltk language model (pos)
+				used fasttext pre-trained language identification model for extracting english words
+				added some other filters
+				manually checked the remaining words in context
+		
+
+	2. The quantitative impact of anglisism
+		1. number of anglisism
+			?1. intro: 
+			2. number of anglicisms in Frankischer tag: I proccess one week of Frankischer tag newspaper from Aug3rd to and included Aug9th and only the Boulevard section which was a total of 6 pages (Sonntag did not have Boulevard section).
+			This corpus has 6 documents with 7,917 total words and 3,219 unique word forms. I excluded main title, dates and headers and also ads. according to the methods of data elicitation as described in section ... 
+			the total number of anglicisms is 363 which occur in 564 instances. compared to the toal number of types and tokens the rate of anglisisms amounts to 7,12% of all tokens and 11,27% of all types. show in a table. 
+			average of 1 anglisism per 14 tokens and 1 anglisism per 8,86 type. type/token anglisism : 0,64 and type/token for total : 0,40 and type/token in corpus without anglisism : ?. 
+			in anglisism: what percent only occur once and what percent occur more than once. what percent occure more than 10 times? pie chart of TF of anglisism words.
+			?what percent of types are hybrid constructions (like wunderkids)
+			average word tokens in each page. then divide buy average occurances of anglisism per word, gives anglisism per page. we also can give exact amount for each page.
+			the reader will come across n anglisims per page!
+			but, anglisism is more clustered rather than linear distribution and depends on style, topic, ... 
+			dispersion of most frequent anglisism words
+			comparison between der spiegel and Frankischer tag
+			frequency of matching anglisisms compared
+			a table of match words and comparisons
+			do an explanation on the list of most frequent anglisims, which one is first, which is second. why?
+			do an explanation on match list as well
+			compare most frequent words in different days of the week, add some line charts for some of the most frequent words in data days.
+			token frequency of anglisism in different days of the week
+			anglisism in computer-related words, also on a line chart or meybe I can compare some of the computer related words in a chart
+		2. number of anglisism according to word classes
+	
+	3. Increasing number of anglisism
+
 	
 	
