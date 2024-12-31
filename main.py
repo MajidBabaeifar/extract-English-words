@@ -19,7 +19,7 @@ def is_meaningful_word(word):
     return len(word) > 1 and not re.match(pattern, word)
 
 # Load JSON data from a file
-with open('all-words-2.json', 'r', encoding='utf-8') as file:
+with open('all-words.json', 'r', encoding='utf-8') as file:
     parsed_data = json.load(file)
 
 # Access the terms from the JSON data

@@ -171,5 +171,5 @@ cython_debug/
 .pypirc
 
 # custom ignores
-fasttext_result.json
+*.json
 lid*.bin*

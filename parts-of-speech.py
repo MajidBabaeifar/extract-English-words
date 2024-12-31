@@ -23,7 +23,7 @@ def process_text_file(file_path):
     return pos_tags
 
 # Replace with the path to your text file
-file_path = 'project sources/all txt/boulivard/Dienstag.txt'
+file_path = 'project sources/all txt/boulivard/combined.txt'
 
 # Process the file and print POS tags
 pos_tags = process_text_file(file_path)
